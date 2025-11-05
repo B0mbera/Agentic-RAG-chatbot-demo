@@ -13,10 +13,12 @@ pypdf
 # RAG összetevők vektorok és embedding
 sentence-transformers
 chromadb
+hf_xet
+huggingface_hub
 
 # LLM Support (Optional - for local models)
 #llama-cpp-python>=0.2.0
 
 # Jupiter notebook (Optional)
-jupyter
-ipykernel
+#jupyter
+#ipykernel
