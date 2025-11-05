@@ -1,22 +1,22 @@
 # főbb függőségek
-numpy>=1.24.0
-python-dotenv>=0.19.0
+numpy
+python-dotenv
 
 # LangChain & LangGraph - Agentic Workflow
-langchain>=0.1.0
-langchain-community>=0.0.20
-langgraph>=0.0.20
+langchain
+langchain-community
+langgraph
 
 # dokumentum feldolgozás
-pypdf>=3.17.0
+pypdf
 
 # RAG összetevők vektorok és embedding
-sentence-transformers>=2.2.0
-chromadb>=0.4.0
+sentence-transformers
+chromadb
 
 # LLM Support (Optional - for local models)
 #llama-cpp-python>=0.2.0
 
 # Jupiter notebook (Optional)
-jupyter>=1.0.0
-ipykernel>=6.0.0
+jupyter
+ipykernel
