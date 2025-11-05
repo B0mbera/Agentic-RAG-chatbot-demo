@@ -2,7 +2,7 @@
 
 Autonóm döntéshozatalt használó RAG (Retrieval-Augmented Generation) chatbot LangGraph és LangChain segítségével.
 
-## 🚀 Gyors Használat
+## Használat
 
 ### 1. Telepítés
 ```bash
@@ -17,7 +17,7 @@ Helyezd a PDF fájlokat a `knowledge/` mappába.
 python agentic_rag_app.py
 ```
 
-## 🤖 Működés
+## Működési elv
 
 A chatbot **autonóm döntést hoz**, hogy mikor kell a PDF dokumentumokból információt keresnie:
 
@@ -46,9 +46,5 @@ Kérdés → [ELEMZÉS] → Kell RAG?
 - "Milyen témákat tárgyal a PDF?"
 
 **Direkt válasz:**
-- "Mennyi 2+2?"
+- "Mennyi az idő?"
 - "Szia, hogy vagy?"
-
----
-
-**Állásinterjú projekt** - Demonstrálja az agentic AI, RAG technikát és task decomposition-t.
