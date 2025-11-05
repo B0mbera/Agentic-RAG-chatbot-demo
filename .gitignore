@@ -39,7 +39,7 @@ chroma_db_pdf/
 *.db
 
 # Knowledge Base (PDF files - optional, comment out if you want to track them)
-knowledge/*.pdf
+#knowledge/*.pdf
 
 # IDEs
 .vscode/
